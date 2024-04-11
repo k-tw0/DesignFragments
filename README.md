@@ -5,3 +5,7 @@ La Navegación Dinámica es una solución simple para implementar menús dinámi
 #### Captura de pantalla
 
 ![Captura de pantalla](https://github.com/k-tw0/DesignFragments/blob/master/Screenshot_2024-04-08-16-12-04-03_dea67f3dec95499c84f15b01be04bd2a.jpg)
+
+#### Navegacion 2
+
+![Captura de pantalla](https://github.com/k-tw0/DesignFragments/blob/master/Screenshot_2024-04-08-16-12-07-81_dea67f3dec95499c84f15b01be04bd2a.jpg)
